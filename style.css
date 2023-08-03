@@ -303,4 +303,7 @@ body {
 		border: none;
 		border-radius: 3rem;
 	}
+	.btn2:hover {
+		background-color: #b3ffe2;
+	}
 }
